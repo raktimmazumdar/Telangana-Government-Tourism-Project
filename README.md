@@ -51,6 +51,7 @@ The Telangana Tourism Data Analysis project aims to derive strategic insights fr
 
 ### Step 3: Visual 1 - Compound Annual Growth Rate (CAGR) of Tourists
 - Utilized the Compound Annual Growth Rate (CAGR) formula:
+  
   **`CAGR = [(Ending Value / Starting Value)^(1 / Number of Years)] – 1`**
 - Plotted the top and bottom 3 districts based on CAGR, showcasing trends in tourist increments or decrements.
 
@@ -77,6 +78,7 @@ The Telangana Tourism Data Analysis project aims to derive strategic insights fr
 
 ### Step 9: Visual 7 - Tourists to Population Ratio
 - Calculated the projected population for 2019 using the formula:
+
   **`Projected Population = Base Population × (1 + Growth Rate)^(Number of Years)`**
 - Integrated projected populations into the main dataset and computed the tourist to population ratio.
 
