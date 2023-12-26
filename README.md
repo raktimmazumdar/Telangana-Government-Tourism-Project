@@ -1,4 +1,4 @@
-# ⭐ ***Telangana Government Tourism Data Analysis Project*** ⭐
+# ⭐***Telangana Government Tourism Data Analysis Project***⭐
 
 ## ***Overview***
 
