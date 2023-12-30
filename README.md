@@ -1,11 +1,11 @@
 # ⭐***Telangana Government Tourism Data Analysis Project***⭐
 
-## ***Overview***
+## ***A. Overview***
 
 This is a project hosted on Code Basics Website: [Code Basics Challenge](https://codebasics.io/challenge/codebasics-resume-project-challenge/10)  
 This project aims to analyze domestic and foreign tourist data in Telangana from the years 2016 to 2019. The project includes two main datasets: **`domestic_visitors`** and **`foreign_visitors`**, containing information about visitors to Telangana districts for various purposes such as tourism, business, education, and visiting friends and family.
  
-## ***Task***
+## ***B. Task***
 
 ### **Domain:** Tourism | **Function:** Revenue / Municipal Administration
 
@@ -18,23 +18,23 @@ Telangana is one of India’s leading states and has published its tourism data 
 5. You can use additional data based on your own research to support your recommendations
 6. Example LinkedIn Post.
 
-## ***Other resources Provided***
+## ***C. Other resources Provided***
 
 a. Dataset required to answer preliminary research questions.  
 b. Metadata  
 c. Instructions for using dataset.  
 d. Sample Presentation
 
-## ***Credits*** 
+## ***D. Credits*** 
 
 The dataset is taken from Open Data Telangana. Thanks to Telangana Government for providing real-time datasets for public access which is a great learning asset - feel free to explore them here. ([Open Data Telangana](https://data.telangana.gov.in/)).
 
-## ***Softwares Used***
+## ***E. Softwares Used***
 
 a. Microsoft Excel,  
 b. Microsoft PowerPoint
 
-## ***Steps Taken***
+## ***F. Steps Taken***
 
 ### Telangana Tourism Data Analysis Project Overview
 
@@ -92,7 +92,7 @@ The Telangana Tourism Data Analysis project aims to derive strategic insights fr
 
 This structured methodology ensures a comprehensive and actionable analysis of Telangana's tourism landscape. Each step contributes valuable insights for stakeholders and decision-makers in the tourism sector.
 
-## ***Conclusion***
+## ***G. Conclusion***
 
 This project provides valuable insights into Telangana tourism, offering a comprehensive analysis of domestic and foreign visitor trends from 2016 to 2019. For detailed review, please visit the **`All Visitors.xlsx`**, **`Telangana Government Tourism Project.docx`**, and **"Telangana Government Tourism Project.docx"** files in the repositories.
 
